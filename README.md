@@ -1,2 +1,2 @@
-# 100daysJS
-100 Days of JS
+# Learning JS
+Learning JS
